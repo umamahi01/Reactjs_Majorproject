@@ -1,0 +1,155 @@
+.main{
+  margin:0px;
+}
+.Txt{
+  position: absolute;
+  top:  50%;
+  left:  50%;
+  transform: translate(-50%, -50%);
+  color: rgb( 0,75,73);
+  font-family:   cursive;
+  
+  padding: 30px 30px;
+
+   
+}
+.Main .Grid-Page{
+  width:100%;
+
+}
+.Grid-Page-div {
+  text-align: center;
+  margin-bottom: 10px;
+  background-color: rgb(155, 169, 169);
+}
+
+.Grid-Page-card {
+
+  width: 100%;
+}
+.Grid-Page{
+  margin:10px;
+}
+.Main .Img-Height{
+  width :100%;
+  height: 500px;
+  margin: 0;
+  padding: 0 ;
+}
+
+
+@media (min-width: 576px) {
+  .Img-Height {
+    width: 50%;
+  }
+}
+
+@media (min-width: 768px) {
+  .Img-Height {
+    width: 25%;
+  }
+}
+.Main .chaild .mycard{
+  background-color: rgb(211, 166, 110);
+
+}
+.Main .chaild .cardboxStyles  {
+  height:"200px";
+  background-Color: rgb(191, 164, 12);
+  border-radius:  "10px";
+  box-shadow: "5px 5px 10px #ccc";
+  
+}
+.Main .chaild .card1  {
+  height:"200px";
+  background-Color: rgb( 141,182,0);
+  border-radius:  "10px";
+  box-shadow: "5px 5px 10px #ccc";
+  
+}
+.Main .chaild .card2  {
+  height:"200px";
+  background-Color: rgb(189, 16, 120);
+  border-radius:  "10px";
+  box-shadow: "5px 5px 10px #ccc";
+  
+}
+
+ .bg-para {
+  font-family: 'Blippo,fantasy';
+    font-size: large;
+  background-color: rgb(153, 122, 141);
+  
+  margin-top:50px;
+  margin-left: 70px;
+  margin-right: 60px;
+  padding-left: 30px;
+  }
+   
+   
+
+   .honey {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, auto);
+  grid-gap: 5px;
+  
+}
+.card5{
+  background-color: #87ae9e;
+  margin-left: 30px;
+    margin-top: 30px;
+}
+.card6{
+  background-color:#87ae9e;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+.card7{
+  background-color: #87ae9e;
+  margin-left: 30px;
+}
+.card8{
+  background-color: #87ae9e;
+  margin-right: 30px;
+}
+.icon {
+  font-size: 36px;
+  color: rgb(11, 10, 10);
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-gap: 10px;
+  
+  width: 100%;
+  margin-top: 40px;
+  height: 100%;
+}
+
+.grid-item {
+  background-color: blue;
+  border: 1px solid black;
+  text-align: center;
+  
+}
+
+iframe {
+  width:100vw;
+   height: calc(100vw/1.77);
+}
+ 
+.jeny{
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: rgb(231,  172,  207);
+  border-radius: 2%;
+}
+  
+ 
+ 
+
+
+ 
+  

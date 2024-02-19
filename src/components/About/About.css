@@ -1,0 +1,51 @@
+.First{
+  background-image:  (' ..images / image4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 500px;
+
+}
+
+.earth p {
+    
+    display: grid;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+ 
+  
+
+ .Round{
+  margin-top:40px ;
+  margin-left:40px ;
+  margin-right:40px ;
+  margin-bottom:40px ;
+ }
+ .war{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  
+  color: rgb(207,52,118);
+ }
+.Round ._Nano{
+   background-color: rgb(  196,195,208);
+ }
+ 
+
+ 
+.card button {
+  width: 100px;
+  height: 40px;
+  background-color: rgb(69, 29, 49);
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
+ 
+
+
+
