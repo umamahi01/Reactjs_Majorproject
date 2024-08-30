@@ -6,7 +6,7 @@
    }
 
 .navbar-image {
-    width: 600px;
+    width: 450px;
     height: 290px;
     position: absolute;
     top: 0;
@@ -14,7 +14,7 @@
     object-fit: cover;
     
 }
-    @media (max-width: 1500px) {
+    @media (max-width: 1000px) {
         .navbar-image {
             width:150px;
            height: 290px; 
@@ -53,8 +53,9 @@
     font-size: xx-large;
     top: 0;
     left: 0;
+    
     transform: translate(0, 0);
-    color: rgb(18, 16, 16);
+    color: rgb(16, 15, 15);
  }
   
   .Anymain{

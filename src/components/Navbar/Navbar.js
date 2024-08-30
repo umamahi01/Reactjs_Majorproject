@@ -20,8 +20,9 @@ function NavScrollExample() {
       <Container fluid>
         <Navbar.Brand className="Anymain" > 
         <div className="image-container">
-        <img src={image} alt="/" className='navbar-image' ></img>
         <span className="textOverlay">  INTERNATIONAL SCHOOL</span>
+        <img src={image} alt="/" className='navbar-image' ></img>
+       
        </div>
       </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbarScroll" />
